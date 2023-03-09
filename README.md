@@ -3,7 +3,7 @@
 Please see below all the relevant information for the submission.<br>
 All you need, is to run the relevant notebook.<br><br>
 Note: In each of the notebooks except the notebook that deals with the music data, there is a "Gdown" command that allows the relevant data to be downloaded.
-Unfortunately the music data file was too big for us to upload..<br>
+Unfortunately the music data file was too large for us to upload.<br>
 
 ## Repository structure :
     .
