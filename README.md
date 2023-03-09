@@ -17,5 +17,4 @@ We were asked to supply only the requirments not shown in the course.<br>
     pip install -r requirements.txt
 
 ## Repository structure (:
-    .
     pip install -r requirements.txt
