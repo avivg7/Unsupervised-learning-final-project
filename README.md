@@ -5,7 +5,7 @@ All you need, is to run the relevant notebook.<br><br>
 Note: In each of the notebooks except the notebook that deals with the music data, there is a "Gdown" command that allows the relevant data to be downloaded.
 Unfortunately the music data file was too big for us to upload..<br>
 
-## Repository structure (:
+## Repository structure :
     .
     ├── Deezer_Ego_Nets_clustering.ipynb                # Jupyter inference notebook - Graph based problem
     ├── Gas_Sensor_Array_Drift_clustering.ipynb         # Jupyter inference notebook - Dynamic problem
