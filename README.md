@@ -13,7 +13,7 @@ Unfortunately the music data file was too big for us to upload..<br>
     └── requirements.txt                                # Pip requirements for the project
 
 ## Requirements note:
-We were asked to supply only the requirments not shown in the course.<br>
+Before running the notebook, in order to install all dependencies, please run the following command:.<br>
     pip install -r requirements.txt
 
     pip install -r requirements.txt
