@@ -15,3 +15,10 @@ Unfortunately the music data file was too big for us to upload..<br>
 ## Requirements note:
 We were asked to supply only the requirments not shown in the course.<br>
     pip install -r requirements.txt
+
+## Repository structure (:
+    .
+    ├── Deezer_Ego_Nets_clustering.ipynb                # Jupyter inference notebook - Graph based problem
+    ├── Gas_Sensor_Array_Drift_clustering.ipynb         # Jupyter inference notebook - Dynamic problem
+    ├── Static_Music_clustering.ipynb                   # Jupyter inference notebook - Static problem                              
+    └── requirements.txt                                # Pip requirements for the project
