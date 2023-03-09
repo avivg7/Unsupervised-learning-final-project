@@ -14,3 +14,4 @@ Unfortunately the music data file was too big for us to upload..<br>
 
 ## Requirements note:
 We were asked to supply only the requirments not shown in the course.<br>
+    pip install -r requirements.txt
