@@ -14,6 +14,5 @@ Unfortunately the music data file was too large for us to upload.<br>
 
 ## Requirements note:
 Before running the notebook, in order to install all dependencies, please run the following command:.<br>
-    pip install -r requirements.txt
 
     pip install -r requirements.txt
