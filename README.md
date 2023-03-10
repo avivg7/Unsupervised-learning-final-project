@@ -12,10 +12,20 @@ If you want to download the the "Music data set" you can do it in the following 
     .
     ├── Deezer_Ego_Nets_clustering.ipynb                # Jupyter inference notebook - Graph based problem
     ├── Gas_Sensor_Array_Drift_clustering.ipynb         # Jupyter inference notebook - Dynamic problem
-    ├── Static_Music_clustering.ipynb                   # Jupyter inference notebook - Static problem                              
+    ├── Static_Music_clustering.ipynb                   # Jupyter inference notebook - Static problem     
+    ├── README.md                                       # README file containing instructions on how to run the notebooks
     └── requirements.txt                                # Pip requirements for the project
 
 ## Requirements note :
 Before running the notebook, in order to install all dependencies, please run the following command:.<br>
 
     pip install -r requirements.txt
+
+## How to run the different notebooks :
+
+### Deezer_Ego_Nets_clustering.ipynb : 
+<ol type="1">
+	<li>Item 1</li>
+	<li>Item 2</li>
+	<li>Item 3</li>
+</ol>
