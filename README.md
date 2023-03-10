@@ -40,7 +40,7 @@ Before running the notebook, in order to install all dependencies, please run th
 
 ### Gas_Sensor_Array_Drift_clustering.ipynb : 
 <ol type="1">
-	<li>Download the "Music data set" from the following link: <a href="https://os.unil.cloud.switch.ch/fma/fma_metadata.zip">Click here"</a></li>
+	<li>Download the "Music data set" from the following link: <a href="https://os.unil.cloud.switch.ch/fma/fma_metadata.zip">Click here</a></li>
 	<li>In the first code cell, select the path where the folder containing the data is located.</li>
 	<li>Run the rest of the cells as you wish</li>
 </ol>
