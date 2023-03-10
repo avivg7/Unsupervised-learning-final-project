@@ -15,7 +15,7 @@ If you want to download the the "Music data set" you can do it in the following 
     ├── Static_Music_clustering.ipynb                   # Jupyter inference notebook - Static problem                              
     └── requirements.txt                                # Pip requirements for the project
 
-## Requirements note:
+## Requirements note :
 Before running the notebook, in order to install all dependencies, please run the following command:.<br>
 
     pip install -r requirements.txt
