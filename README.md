@@ -4,7 +4,7 @@ Please see below all the relevant information for the submission.<br>
 All you need, is to run the relevant notebook.<br><br>
 Note: In each of the notebooks except the notebook that deals with the music data, there is a "Gdown" command that allows the relevant data to be downloaded.
 Unfortunately the music data file was too large for us to upload.<br>
-If you want to download the the "Music data set" you can do it in the following link:
+If you want to download the the "Music data set" you can do it in the following link:<br>
 <a href="https://os.unil.cloud.switch.ch/fma/fma_metadata.zip">Click here to download the "Music data set"</a>
 
 
