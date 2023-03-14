@@ -17,7 +17,7 @@ If you want to download the the "Music data set" you can do it in the following 
     └── requirements.txt                                # Pip requirements for the project
 
 ## Requirements note :
-Before running the notebook, in order to install all dependencies, please run the following command:.<br>
+Before running the notebook, in order to install all dependencies, please run the following command:<br>
 
     pip install -r requirements.txt
 
