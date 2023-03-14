@@ -10,6 +10,7 @@ If you want to download the the "Music data set" you can do it in the following 
 
 ## Repository structure :
     .
+    ├── Unsupervised_learning_final_project_report.pdf  # Report
     ├── Deezer_Ego_Nets_clustering.ipynb                # Jupyter inference notebook - Graph based problem
     ├── Gas_Sensor_Array_Drift_clustering.ipynb         # Jupyter inference notebook - Dynamic problem
     ├── Static_Music_clustering.ipynb                   # Jupyter inference notebook - Static problem     
